@@ -2,7 +2,7 @@
 
 <h2>IT support Projects:</h2>
 <h3>Active Directory Home Lab:</h3>
-- Password Policy Enhancement: https://github.com/kagisocybertech/Active-Directory-Password-Policy-Enhancement
+- Creating and setting up GPO: https://github.com/kagisocybertech/Active-Directory-Password-Policy-Enhancement
  
  <h2>Certifications</h2>
  
