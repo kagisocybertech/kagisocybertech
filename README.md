@@ -1,9 +1,9 @@
 <h1>Hi, I'm Kagiso!</h1>
 
 <h2>IT support Projects:</h2>
-
-- [Active Directory Home Lab](https://github.com/kagisocybertech/Active-Directory-Password-Policy-Enhancement/blob/main/README.md)
-
+<h3>Active Directory Home Lab:</h3>
+- Password Policy Enhancement: https://github.com/kagisocybertech/Active-Directory-Password-Policy-Enhancement
+ 
  <h2>Certifications</h2>
  
  - [Security+](https://www.credly.com/badges/b1b67784-6be3-4c68-93e4-b4daeb75beb4/linked_in_profile)
