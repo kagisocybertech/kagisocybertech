@@ -1,7 +1,7 @@
 <h1>Hi, I'm Kagiso!</h1>
 
 <h2>IT support Projects:</h2>
-<h3>Active Directory Home Lab:</h3>
+<h3>Group Policy Management:</h3>
 - Creating and setting up GPO: https://github.com/kagisocybertech/Active-Directory-Password-Policy-Enhancement
  
  <h2>Certifications</h2>
