@@ -4,7 +4,7 @@
 <h3>Group Policy Management:</h3>
 - Creating and setting up GPO: https://github.com/kagisocybertech/Active-Directory-Password-Policy-Enhancement
 <h3>Troubleshoot:</h3>
-- Troubleshooting Windows 10 OOBE / OOBEREGION failure in a VirtualBox environment:
+- windows-10-oobe-troubleshooting:
 
 <h2>Cybersecurity:</h2>
   <i>in progress</i>
