@@ -7,7 +7,7 @@
 - Windows 10 OOBE troubleshooting: https://github.com/kagisocybertech/windows-10-oobe-troubleshooting
 
 <h2>Cybersecurity:</h2>
-  <i>in progress</i>
+ Networking Core Protocols: <i>in progress</i>
   
 <h2>Certifications</h2>
 
