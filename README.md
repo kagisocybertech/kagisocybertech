@@ -1,13 +1,13 @@
 <h1>Hi, I'm Kagiso!</h1>
 
+<h2>Cybersecurity Projects:</h2>
+ Endpoint Reverse Shell Detection Lab (Sysmon + Splunk): <i>in progress</i>
+ 
 <h2>IT support Projects:</h2>
 <h3>Group Policy Management:</h3>
 - Creating and setting up GPO: https://github.com/kagisocybertech/Active-Directory-Password-Policy-Enhancement
 <h3>Troubleshoot:</h3>
 - Windows 10 OOBE troubleshooting: https://github.com/kagisocybertech/windows-10-oobe-troubleshooting
-
-<h2>Cybersecurity:</h2>
- Networking Core Protocols: <i>in progress</i>
   
 <h2>Certifications</h2>
 
