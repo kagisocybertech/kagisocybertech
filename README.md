@@ -3,7 +3,7 @@
 <h2>Cybersecurity Projects:</h2>
 - Endpoint Reverse Shell Detection Lab (Sysmon + Splunk): https://github.com/kagisocybertech/Endpoint-Reverse-Shell-Detection-Lab-Sysmon-Splunk-/tree/main
 
-- MITRE ATT&CK Mapping & Detection Guide: <I>in progress</I>
+- Network Traffic Analysis with Wireshark: <I>in progress</I>
  
 <h2>IT support Projects:</h2>
 <h3>Group Policy Management:</h3>
