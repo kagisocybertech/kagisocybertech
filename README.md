@@ -3,6 +3,8 @@
 <h2>Cybersecurity Projects:</h2>
 - Endpoint Reverse Shell Detection Lab (Sysmon + Splunk): https://github.com/kagisocybertech/Endpoint-Reverse-Shell-Detection-Lab-Sysmon-Splunk-/tree/main
 
+- Phishing Alert Triage: https://github.com/kagisocybertech/Phishing-Alert-Triage-SOC-L1-Simulation/blob/main/README.md
+
 - Network Traffic Analysis with Wireshark: <I>in progress</I>
  
 <h2>IT support Projects:</h2>
